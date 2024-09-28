@@ -1,24 +1,30 @@
-h1{
-color: blue;
-font-size: 24px;
-
-}
-h2{
-    font-size: 20px;
-color: #0000ff;
-
-}
-h3{
-    font-size: 16px;
-color: teal;
-}
-p{
-color: #4D4D4D  ;
-
+header{
+width: 40%;
+height: 30%;
+color: rgb(0, 0, 0);
 }
 
-a{
-color: #8A2BE2;
-list-style: none;
-text-decoration: none;
+header{
+    background-image: url("jeshoots-com-ecktzgjc-iu-unsplash.jpg");
+    background-color: #cccccc;
+    background-position-x: center;   
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+
+
+img{
+width: 50%;
+
+
+}
+
+article{
+border: #cccccc;
+border-style: solid;
+border-color: black;
+border-radius: 3%;
+
 }
