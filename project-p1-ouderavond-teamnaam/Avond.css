@@ -1,0 +1,72 @@
+body{
+
+    font-family: "Oswald", sans-serif;
+}
+
+
+
+section{
+
+font-size: larger;
+
+
+}
+
+
+body {
+    background-image: url("");
+    background-color: #000000;
+    size: 200px;
+    font-family: "Playwrite DE Grund", cursive;
+   }
+
+   
+  
+  body {
+    background-image: url("images.jpg");
+    background-color: #28bde3;
+    size: 200px;
+    font-family: "Playwrite DE Grund", cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+
+
+   section{
+ color: aliceblue;
+   }
+
+ 
+   p{
+color: rgb(0, 0, 0);
+
+   }
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #04AA6D;
+  }
