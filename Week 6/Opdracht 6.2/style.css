@@ -1,0 +1,29 @@
+.flexbox1{
+background-color: green;
+width: 200px;
+height: 200px;
+}
+
+.flexbox2{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+.flexbox3{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.flexbox4{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.flex-container{
+width: 1200px;
+background-color: azure;
+
+}
