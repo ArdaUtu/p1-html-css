@@ -1,0 +1,160 @@
+h1{
+background-color: rgb(237, 91, 91);
+color: white;
+padding: 7%;
+margin: 0%;
+width: 100%;
+position: fixed;
+top: 0%;
+left: 0%;
+}
+
+
+.Section1{
+background-color:rgb(255, 213, 0);
+padding: 6%;
+margin: 0%;
+width: 100%;
+height: 20%;
+position: fixed;
+top: 9%;
+left: 0%;
+}
+
+.Section2{
+    background-color:orange;
+    padding: 7%;
+    margin: 0%;
+    width: 100%;
+    height: 30%;
+    position: fixed;
+    top: 36%;
+    left: 0%;
+    
+}
+
+.Section3{
+    background-color:rgb(90, 199, 90);
+    padding: 7%;
+    margin: 0%;
+    width: 100%;
+    height: 30%;
+    position: fixed;
+    top: 69%;
+    left: 0%;
+
+
+}
+
+.SectionT{
+    position: fixed;
+top: 11%;
+left: 5%;
+font-size: larger;
+}
+
+.Font1{
+    position:fixed;
+    top: 38%;
+    left: 5%;
+    font-size: larger;
+}
+
+.SectionL{
+    position: fixed;
+    top: 71%;
+    left: 5%;
+    font-size: larger;
+
+}
+
+.Section2h1{
+position: fixed;
+top: 14%;
+left: 5%;
+
+}
+
+.Section2h2{
+position: fixed;
+top: 41%;
+left: 5%;
+
+}
+
+.Section2h3{
+position: fixed;
+top: 74%;
+left: 5%;
+}
+
+.LogoH1{
+    position: fixed;
+    top: 3%;
+    left: 5%;
+
+
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 768px ) {
+  .Section1{
+    background-color:rgb(0, 247, 255);
+    color: white;
+    }
+
+    .Section2{
+      background-color:rgb(217, 0, 255);
+      color: white;
+  }
+  .Section3{
+    background-color:rgb(11, 42, 83);
+    color: white;
+}
+h1{
+  background-color: rgb(91, 186, 237);
+  color: white;
+}
+.Section2h1{
+color: white;
+
+}
+
+.Box{
+background-color: white;
+color: white;
+width: 4%;
+height: 3%;
+font-size:x-large;
+position: absolute;
+right: 3%;
+}
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px ) {
+  .Section1{
+    background-color:rgb(232, 53, 53);
+    color: white;
+    }
+
+    .Section2{
+      background-color:rgb(73, 110, 231);
+      color: white;
+  }
+  .Section3{
+    background-color:rgb(34, 116, 223);
+    color: white;
+}
+h1{
+  background-color: rgb(243, 112, 103);
+  color: white;
+
+  .Section2h1{
+    color: white;
+    
+    }
+}
+}
+
+
+
