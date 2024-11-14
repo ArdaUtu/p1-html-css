@@ -1,0 +1,592 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html {
+    font-size: 62.5%;
+  }
+  
+  
+  nav {
+    display: flex;
+    width: 100%;
+    padding: 2rem;
+    min-height: 10vh;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background: #00a8c7;
+    justify-content: space-between;
+    
+  }
+  nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+  }
+  nav li {
+    font-size: 2.5rem;
+    padding: 0 4rem 0 4rem;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  nav img {
+    width: 5vw;
+  }
+
+nav ul {
+  float: right;
+
+}
+  
+
+a{
+  text-decoration: none;
+  color: #008CBA;
+
+}
+
+
+
+  
+  
+.Contact{
+position: fixed;
+right: 45%;
+font-size: 300%;
+bottom: 40%;
+}
+
+.Input{
+  text-align: center;
+position: fixed;
+background-color: #00a8c7;
+width: 17%;
+right: 45%;
+font-size: 150%;
+bottom: 40%;
+color: white;
+
+}
+.Hoofdstuk2{
+text-align: center;
+color: black;
+position:fixed;
+right: 48%;
+top: 20%;
+font-size: xx-large;
+font-family: "Goldman", cursive;
+}
+
+.contactbody{
+  font-family: "Goldman", cursive;
+font-size: smaller;
+  
+}
+
+.javascriptP{
+  position: fixed;
+  top: 37%;
+  right: 40%;
+  font-size: 120%;
+  font-family: "Goldman", cursive;
+  color: white;
+}
+
+.SQLimg{
+  position: fixed;
+  bottom: 30%;
+  right: 9%;
+  font-size: 300%;
+  color: white;
+}
+
+
+
+.SQLH2{
+  position: fixed;
+  bottom: 65%;
+  right: 70%;
+  font-size: 300%;
+  color: white;
+  font-family: "Goldman", cursive;
+}
+
+.SQLH1{
+  position: fixed;
+  top: 20%;
+  right: 50%;
+  font-size: 300%;
+color: white;
+font-family: "Goldman", cursive;
+
+
+}
+
+.Button{
+  position: fixed;
+  font-size: 130%;
+top: 28%;
+right: 51%;
+color: black;
+font-family: "Goldman", cursive;
+}
+
+.Navigatie{
+  position: fixed;
+right: 0%;
+text-align: end;
+   display: flex;
+    width: 50%;
+    padding: 2rem;
+    min-height: 10vh;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background: #00a8c7;
+    justify-content: space-between;
+    font-family: "Goldman", cursive;
+    
+}
+
+navbar {
+  background-image: url("background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-family: "Goldman", cursive;
+  }
+
+
+.contactnavigatie{
+  position: fixed;
+right: 0%;
+text-align: end;
+   display: flex;
+    width: 50%;
+    padding: 2rem;
+    min-height: 10vh;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background: #00a8c7;
+    justify-content: space-between;
+    font-family: "Goldman", cursive;
+   
+}
+input{color: #000000;
+}
+
+
+.navjavascript{
+  position: absolute;
+right: 0%;
+text-align: end;
+   display: flex;
+    width: 50%;
+    padding: 2rem;
+    min-height: 10vh;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: auto;
+    background: #00a8c7;
+    justify-content: space-between;
+    font-family: "Goldman", cursive;
+}
+
+.navigatiejava{
+  font-family: "Goldman", cursive;
+
+}
+
+.javascriptimg{
+  font-family: "Goldman", cursive;
+  position: fixed;
+  bottom: 20%;
+  right: 10%;
+  }
+
+  .PHPIMG{
+    position: fixed;
+    left: 4%;
+    bottom: 20%;
+    }
+    .PHPH1{
+      position: fixed;
+      top: 20%;
+      right: 52%;
+      font-size: 400%;
+      font-family: "Goldman", cursive;
+    }
+    .PHPH2{
+      position: fixed;
+      bottom: 65%;
+      right: 54%;
+      font-size: 200%;
+      font-family: "Goldman", cursive;
+    }
+
+    .PHPH2deel2{
+      color:#7b9dd7;
+      position: fixed;
+      bottom: 65%;
+      right: 49.7%;
+      font-size: 200%;
+      font-family: "Goldman", cursive;
+
+
+    }
+    
+    .PHPP{
+      position: fixed;
+      top: 37%;
+      right: 20%;
+      font-size: 350%;
+    
+    
+    }
+
+
+    .ContactBody{
+background-color: white;
+
+
+    }
+
+  
+.indexbody{
+  font-family: "Goldman", cursive;
+
+
+}
+
+.imgindex{
+position: absolute;
+top: 14%;
+
+}
+
+.indexh1{
+  color:white;
+  position: absolute;
+  right: 38%;
+  top: 50%;
+  font-size: xx-large;
+  font-family: "Goldman", cursive;
+  }
+
+  .indexh1deel2{
+    color:white;
+    position: absolute;
+    right: 29%;
+    top: 56%;
+    font-size: xx-large;
+    font-family: "Goldman", cursive;
+
+
+  }
+
+  .imghtml{
+position: absolute;
+top: 29%;
+left: 5%;
+  }
+
+  .htmlh1{
+position: absolute;
+color:black;
+font-size: 42px;
+right: 38%;
+top: 20%;
+font-family: "Goldman", cursive;
+  }
+
+  .HTMLbody{
+
+    font-family: "Goldman", cursive;
+
+  
+  }
+  .htmlh2{
+
+    position: absolute;
+    color:black;
+    font-size: 30px;
+    right: 52.3%;
+    top: 35%;
+    font-family: "Goldman", cursive;
+
+  }
+
+  .htmlp{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    font-size: 28px;
+  }
+
+  
+
+
+.javascriptimg
+  {
+
+    position:absolute;
+    bottom: 30%;
+    right: 9%;
+  }
+
+  .FooterHTML{
+background-color: #00a8c7;
+color: white;
+position: absolute;
+bottom: 0%;
+text-align: center;
+padding: 3rem;
+width: 100%;
+font-size: x-large;
+font-family: "Goldman", cursive;
+  }
+  
+.indexHome{
+background-image: url("background.jpeg");
+background-position: center;
+background-position: 60%;
+background-repeat: no-repeat;
+background-size: 100%;
+position: absolute;
+width: 100%;
+height: 100%;
+}
+
+.Footerjavascript{
+  background-color: #00a8c7;
+  color: white;
+  position: absolute;
+  bottom: 14%;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  font-size: x-large;
+  font-family: "Goldman", cursive;
+}
+
+.FooterPHP{
+  background-color: #00a8c7;
+  color: white;
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  font-size: x-large;
+  font-family: "Goldman", cursive;
+}
+
+.FooterSQL{
+  background-color: #00a8c7;
+  color: white;
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  font-size: x-large;
+  font-family: "Goldman", cursive;
+}
+
+.FooterContact{
+  background-color: #00a8c7;
+  color: white;
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  font-size: x-large;
+  font-family: "Goldman", cursive;
+}
+
+.javabody{
+  background-color: black;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  }
+  .javap{
+  color: white;
+  position: absolute;
+  right: 35%;
+  bottom: 50%;
+  font-size: 30px;
+  }
+
+  .javah1{
+    color: white;
+    position: absolute;
+    right: 46%;
+    bottom: 80%;
+    font-size: 40px;
+    font-family: "Goldman", cursive;
+
+  }
+
+  .javah2{
+    color: white;
+    position: absolute;
+    right: 87%;
+    bottom: 60%;
+    font-size: 20px;
+    font-family: "Goldman", cursive;
+
+  }
+
+  .javah2deel2{
+    color: rgb(251, 222, 2);
+    position: absolute;
+    right: 78%;
+    bottom: 60%;
+    font-size: 20px;
+    font-family: "Goldman", cursive;
+
+
+  }
+
+  .Footerindex{
+    background-color: #00a8c7;
+    color: white;
+    position: absolute;
+    bottom: 0%;
+    text-align: center;
+    padding: 3rem;
+    width: 100%;
+    font-size: x-large;
+    font-family: "Goldman", cursive;
+  }
+
+  
+
+  .imgsql{
+    position: absolute;
+    left: 64%;
+    bottom: 17%;
+   width: 50%;
+height: 50%;
+
+  }
+
+  .SQLbody{
+background-color: black;
+width: 100%;
+height: 100%;
+position: absolute;
+bottom: 0%;
+  }
+
+.SQLh1{
+position: absolute;
+right: 50%;
+top: 20%;
+font-size: 400%;
+color: white;
+font-family: "Goldman", cursive;
+}
+
+.SQLh2{
+  position: absolute;
+  right: 89%;
+  top: 40%;
+  font-size: x-large;
+  color: white;
+  font-family: "Goldman", cursive;
+}
+
+.SQLh2deel2{
+  color: orange;
+  position: absolute;
+  right: 84.5%;
+  top: 40.3%;
+  font-size:xx-large;
+  font-family: "Goldman", cursive;
+
+
+}
+
+.SQLp{
+  position: absolute;
+  right: 47%;
+  top: 50%;
+  font-size:xx-large;
+  color: white;
+
+}
+
+.contactfooter{
+  background-color: #00a8c7;
+  color: white;
+  position: absolute;
+  bottom: 0%;
+  text-align: center;
+  padding: 3rem;
+  width: 100%;
+  font-size: x-large;
+  font-family: "Goldman", cursive;
+
+}
+
+.Berichtcontact{
+height: 70%;
+width: 0%;
+
+}
+
+.Input{
+  font-family: "Goldman", cursive;
+height: 5%;
+  font-size:x-large;
+}
+
+.Footercontact{
+background-color: #00a8c7;
+color: white;
+position: absolute;
+bottom: 0%;
+text-align: center;
+padding: 3rem;
+width: 100%;
+font-size: x-large;
+font-family: "Goldman", cursive;
+}
+
+.HTMLcolor{
+  position: absolute;
+  color:rgb(54, 125, 195);
+  font-size: 46px;
+  left: 48.4%;
+  top: 35%;
+
+
+}
+
+.CSScolor{
+  position: absolute;
+  color:rgb(219, 94, 27);
+  font-size: 46px;
+  right: 39%;
+  top: 35%;
+
+
+}
+
+.HTMLword2{
+  position: absolute;
+  right: 44%;
+  top: 35%;
+  color:rgb(0, 0, 0);
+  font-size: 46px;
+}
+
